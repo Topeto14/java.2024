@@ -7,7 +7,6 @@ public class ejercicioIntro1 {
        // Ejercicio 1
        //Escribir un programa que pregunte al usuario su nombre, y luego lo salude
        String nombre;
-       String Saludo;
 
        // leer el escaner para poder leer el teclado 
        Scanner sc= new Scanner(System.in);
