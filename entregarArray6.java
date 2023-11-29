@@ -1,51 +1,37 @@
-import java.util.Scanner;
-
 public class entregarArray6 {
-    /*5.Leer 10 números enteros y a continuación mostrar la media de los números introducidos, el mayor valor y el
-        menor valor. Usar un array para almacenar los valores y sacar toda la información en una sola iteración del array.
-        Si puedes mejóralo implementando una función para cada tarea (media, mayor, menor), pasando el array. */
-        public static int elnumeroMayor(int[] numeros){
-            int numeroMayor;
-           for(int i=0; i<numeros.length; i++){
-                if(numeros[i] >= numeroMayor ){
-                    numeroMayor = numeroMayor + numeros[i];
-                    return numeroMayor;
-                }else{
-                    return ;
-                }
+    /*6. Generar 10 números enteros aleatorios. Debemos mostrarlos en el siguiente orden: el primero, el último, el 
+    segundo, el penúltimo, el tercero, etc… Pista: primero los guardas en un array y luego lo recorres como indica */
+    
+    public static int generarNumeros (int min, int max){
+        return (int) ((Math.random()*(max - min +1)+min));
+    }
+    public static void pintarMatriz(int matriz[]) {
+        for(int i=0; i<matriz.length; i++) {
+                System.out.print(matriz[i] + " ");
             }
-        }
-        public static int elnumeroMenor(int numeros, int numeroMenor ){
-            
-            if(numeros >= numeroMenor){
-                return numeroMenor;
-            }else{
-                return ;
-            }
-            
+            System.out.println();
         }
     public static void main(String[] args) {
-        Scanner in = new Scanner(System.in);
+        int tabla[]= new int[10];
+        int tabla2[]=new int[10];
 
-        int numeros[] = new int [10];
-        int suma = 0 ;
-        int media = 0 ;
+        int cont1 = 0;
+        int cont2 = tabla.length-1;
 
-        
-        for(int i=0; i<numeros.length; i++){
-            System.out.println(" Dime numeros enteros " + (i+1));
-            numeros[i]= Integer.parseInt(in.nextLine());
+        for(int i=0; i<tabla.length; i++){
+          tabla[i]=generarNumeros(1, 10);  
         }
-
-        for(int i=0; i<numeros.length; i++){
-            suma = suma + numeros[i];
-        }        
-            media = suma / numeros.length ;
-
-        System.out.println("la suma de los numeros es " + suma);
-        System.out.println(" La media es " + suma / numeros.length);
-        System.out.println("El numero mayor es " + elnumeroMayor(numeros[i], numeros[i]));
-    }
         
+        pintarMatriz(tabla);    
+       
+        for(int i=0; i<tabla.length; i+=2){
+            tabla2[i]=tabla[cont1];             
+            tabla2[i+1]=tabla[cont2];     
+            cont1++;
+            cont2--;    
+        }
+        
+        pintarMatriz(tabla2);       
+    }
     
 }
