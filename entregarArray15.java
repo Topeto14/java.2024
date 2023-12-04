@@ -14,63 +14,27 @@ public class entregarArray15 {
         }
     }
 
-    public static int sumaFila(int numero, int tabla[][]){
-        int total = 0 ;
-        for (int j = 0; j < tabla[0].length; j++) {
-            total+= tabla[numero][j];          
-        }
-        return total;
-    }
-
-     public static int sumaColumna(int numero, int tabla[][]){
-        int total = 0 ;
-        for (int i = 0; i < tabla.length; i++) {
-            total+= tabla[i][numero];          
-        }
-        return total;
-    }
-    public static int sumaTabla(int[][] tabla){
-        int resultado = 0 ;
-        for(int i = 0; i< tabla.length; i++){
-            for (int j = 0; j < tabla.length; j++) {
-                resultado += tabla[i][j];
-            }
-        
-        }
-        return resultado;
-
-    }
     public static void main(String[] args) {
         int tabla1 [][] = new int[3][3];
         int tabla2 [][] = new int[3][3];
-        int suma [][] = new int[6][6];
+        int suma [][] = new int[3][3];
 
         for (int i = 0; i < tabla1.length; i++) {
             for (int j = 0; j < tabla1[i].length; j++) {
                 tabla1[i][j]= generarNumeros(1, 9);
+                tabla2[i][j]= generarNumeros(1, 9);
+                suma [i][j]=tabla1[i][j] + tabla2[i][j];
             }
         }
 
-           for (int i = 0; i < tabla2.length; i++) {
-            for (int j = 0; j < tabla2[i].length; j++) {
-                tabla2[i][j]= generarNumeros(1, 9);
-            }
-        }
+        System.out.println("Esta es la tabla 1 "); 
         pintarMatriz(tabla1);
         System.out.println();
+        System.out.println("Esta es la tabla 2 ");
         pintarMatriz(tabla2);
         System.out.println();
-        System.out.println(" La suma de las filas :");
-        System.out.println(" Suma de la tabla 1 es " + sumaFila(0, tabla1) + " Sumas de la tabla 2 es : " + sumaFila(0, tabla2));
-        System.out.println(" Suma de la tabla 1 es " + sumaFila(1, tabla1) + " Sumas de la tabla 2 es : " + sumaFila(1, tabla2));
-        System.out.println(" Suma de la tabla 1 es " + sumaFila(2, tabla1) + " Sumas de la tabla 2 es : " + sumaFila(2, tabla2));
-        System.out.println(" La suma de las columnas :");
-        System.out.println(" Suma de la tabla 1 es " + sumaColumna(0, tabla1) + " Sumas de la tabla 2 es : " + sumaColumna(0, tabla2));
-        System.out.println(" Suma de la tabla 1 es " + sumaColumna(1, tabla1) + " Sumas de la tabla 2 es : " + sumaColumna(1, tabla2));
-        System.out.println(" Suma de la tabla 1 es " + sumaColumna(2, tabla1) + " Sumas de la tabla 2 es : " + sumaColumna(2, tabla2));
-
-        System.out.println(" La suma de la tabla 1 es :" + sumaTabla(tabla1));
-        System.out.println(" La suma de la tabla 2 es : " + sumaTabla(tabla2) );
+        System.out.println("Esta es la tabla donde se suman la tabla 1 y 2 en la misma posicion ");
+        pintarMatriz(suma);
 
     }
 }

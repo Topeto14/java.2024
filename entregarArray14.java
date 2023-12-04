@@ -57,7 +57,7 @@ public class entregarArray14 {
 
         for (int i = 0; i < tabla.length; i++) {
             for (int j = 0; j < tabla[i].length; j++) {
-                tabla[i][j]=generarNumeros(1, 9);
+                tabla[i][j]=generarNumeros(10, 99);
             }      
         }  
         
@@ -69,7 +69,6 @@ public class entregarArray14 {
         System.out.println(" El numero Menor de la tabla es : " + numeroMenor(tabla));
         System.out.println();
         System.out.println(" La media es : " + mediamatriz(tabla));
-        
-        
+             
     }
 }
