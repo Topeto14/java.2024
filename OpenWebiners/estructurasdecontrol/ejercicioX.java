@@ -5,8 +5,6 @@ import java.util.Scanner;
 /**
 9. Escribe un programa en Java que compruebe si un carácter es una vocal o no.
  
-12. Escribe un programa en Java que pinte una pirámide con asteriscos. El número de pisos debe introducido a través del teclado.
- 
 13. Escribe un programa en Java que permita calcular el n-ésimo término de la sucesión de Fibonacci. En dicha sucesión se da que:
 - f(0) = 0;
 - f(1) = 1;
