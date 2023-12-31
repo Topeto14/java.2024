@@ -5,10 +5,6 @@ import java.util.Scanner;
 /**
 9. Escribe un programa en Java que compruebe si un carácter es una vocal o no.
  
-10. Escribe un programa en Java que comprueba si un año es bisiesto o no. Recuerda que los años bisiestos son aquellos que son divisibles entre 4 pero que no son divisibles entre 100, o que son divisibles entre 400.
- 
-11. Escribe un programa en Java que encuentre cuál es el mayor de 3 números usando sentencias if-else.
- 
 12. Escribe un programa en Java que pinte una pirámide con asteriscos. El número de pisos debe introducido a través del teclado.
  
 13. Escribe un programa en Java que permita calcular el n-ésimo término de la sucesión de Fibonacci. En dicha sucesión se da que:
