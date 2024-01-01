@@ -20,7 +20,7 @@ public class ejercicioXIII {
         System.out.println(" Dime el numero de veces que quieres que te haga fibonacci ");
         int n = Integer.parseInt(sc.nextLine());
         for (int i = 0; i < n; i++) {
-            if (i<n - 1) {
+            if (i < n - 1) {
                 System.out.print( a + " , ");
                 c = a + b ;
                 a = b ;
