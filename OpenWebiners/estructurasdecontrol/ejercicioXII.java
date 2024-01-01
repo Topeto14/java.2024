@@ -1,6 +1,6 @@
 package OpenWebiners.estructurasdecontrol;
 /*
- * 11. Escribe un programa en Java que encuentre cuál es el mayor de 3 números usando sentencias if-else.
+ * 12. Escribe un programa en Java que pinte una pirámide con asteriscos. El número de pisos debe introducido a través del teclado.
  */
 
 import java.util.Scanner;
@@ -8,19 +8,17 @@ import java.util.Scanner;
 public class ejercicioXII {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        System.out.println(" Introduce el primer numero ");
-        int numero1 = Integer.parseInt(sc.nextLine());
-        System.out.println(" Introduce el segundo numero ");
-        int numero2 = Integer.parseInt(sc.nextLine());
-        System.out.println(" Introduce el tercer numero ");
-        int numero3 = Integer.parseInt(sc.nextLine());
+        System.out.println(" Introduzca el numero de pisos de la piramide");
+        int n = Integer.parseInt(sc.nextLine());
 
-        if ((numero1>numero2) && (numero1>numero3)) {
-            System.out.println(numero1 + " es el numero mayor ");     
-        }else if ((numero2>numero1)&& (numero2>numero3)) {
-            System.out.println(numero2 + " es el numero mayor ");
-        }else{
-            System.out.println(numero3 + " es el mayor ");
+        for (int i = 1; i <= n  ; i++) {
+            for (int j = 1; j <= n - i; j++) {
+                System.out.print(" ");
+            }
+            for (int k = 1; k <= i ; k++) {
+                System.out.print(" * ");
+            }
+            System.out.println();
         }
     }
     
