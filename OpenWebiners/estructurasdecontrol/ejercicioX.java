@@ -13,7 +13,7 @@ public class ejercicioX {
         System.out.println(" Introduce un año ");
         int anio = Integer.parseInt(sc.nextLine());
 
-        if ((anio % 400 == 0) || ((anio % 4 == 0) && (anio % 100 != 0))) {
+        if ((anio % 400 == 0) || ((anio % 4 == 0) && (anio % 100 != 0))) { 
             System.out.println(" Es un año bisiesto ");
         } else {
             System.out.println(" No es un año bisiesto ");
