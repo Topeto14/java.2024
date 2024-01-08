@@ -12,7 +12,10 @@ Implementar un programa en Java que pida por teclado todos los datos necesarios 
 public class ejercicioXV {
     public static void main(String[] args) {
        
-       
+       System.out.println( " 1. Coge el telefono. ");
+       System.out.println(" 2. La llamada dura 3 minutos. ");
+       System.out.println(" 3. La llamadad dura 7 minutos. ");
+       System.out.println( " 4. La llamada dura mas de 8 minutos. ");
        
         
         
