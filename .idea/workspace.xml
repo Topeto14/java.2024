@@ -4,11 +4,29 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="gfh" />
+    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="gfh">
+      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercicio_3_Pajaro/Pajaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercicio_3_Pajaro/TestPajaro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_4_Finanzas/Finanzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_4_Finanzas/TestFinanzas.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LenguajeMarcas.html/EjerciciosExamen.html/Segunda_Evaluacion/Relacion_4/Practica 1  alumno relacion 4/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LenguajeMarcas.html/EjerciciosExamen.html/Segunda_Evaluacion/Relacion_4/Practica 1  alumno relacion 4/Index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -38,20 +56,21 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/alumno1/Escritorio/java.2024&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/home/alumno1/Escritorio/java.2024",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -72,6 +91,7 @@
       <workItem from="1704993627742" duration="83000" />
       <workItem from="1704993731339" duration="65000" />
       <workItem from="1704993799487" duration="477000" />
+      <workItem from="1705072227747" duration="6290000" />
     </task>
     <task id="LOCAL-00001" summary="g">
       <option name="closed" value="true" />
