@@ -1,21 +1,23 @@
 package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercio_2_Coche;
 
 public class Coche {
-    // --Atributo--
-    private int velocidad ;
-    private int mas ;
-    private int menos ;
+    //--Atributo--
+    private int velocidad;
 
+    //--Constructor--
+    Coche(){
+        velocidad = 0 ; }
+    //--Metodos--
 
-    //-- METODOS --
-
-    public int getVelocidad() {
+    public int getVelocidad() { // Este metodo devuelve velocidad actual.
         return velocidad;
     }
-    public int acelera(int mas ){
-        return velocidad += mas;
+    public void acelera(int mas){ //Este método actualiza la velocidad a más kilometros mas (suma).
+        velocidad += mas ;
     }
-    public void frena( int menos ){
-        this.velocidad -= menos;
+
+    public void Frena(int menos) { //Este método actualiza la velocidad a menos kilometros menos (resta).
+        velocidad -= menos ;
     }
+
 }

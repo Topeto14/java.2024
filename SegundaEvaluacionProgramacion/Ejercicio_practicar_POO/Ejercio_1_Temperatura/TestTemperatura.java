@@ -12,6 +12,7 @@ public class TestTemperatura {
         System.out.println(" Dime los grados Farenheit para que te los pase a Celsius ");
         double farenheit = Integer.parseInt(sc.nextLine());
         System.out.println(farenheit + " grados farenheit son :" + new Temperatura().farenheitToCelsius(farenheit) + " Celsius ");
+
     sc.close();
     }
 
