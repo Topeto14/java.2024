@@ -7,6 +7,7 @@ public class Coche {
     //--Constructor--
     Coche(){
         velocidad = 0 ; }
+
     //--Metodos--
 
     public int getVelocidad() { // Este metodo devuelve velocidad actual.
@@ -17,6 +18,7 @@ public class Coche {
     }
 
     public void Frena(int menos) { //Este método actualiza la velocidad a menos kilometros menos (resta).
+
         velocidad -= menos ;
     }
 
