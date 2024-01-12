@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class entregarArray1 {
+public class entregarArray1_ {
     /*1. Programa Java que guarda en un array 20 números enteros que se generen aleatoriamente entre -100 y 100. A 
         continuación, se recorre el array y calcula cuántos números son positivos y cuántos negativos. */
         /**

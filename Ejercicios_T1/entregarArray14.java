@@ -2,7 +2,7 @@ public class entregarArray14 {
     /*14. Crear una matriz 5x3 de números enteros (aleatorios) y mostrar el menor, el mayor y la media de los elementos */
 
     public static int generarNumeros(int min, int max){
-        return (int)((Math.random()*(max-hmin+1)+min));
+        return (int)((Math.random()*(max-min+1)+min));
     }
     public static void pintarMatriz(int matriz[][]) {
         for(int i=0; i<matriz.length; i++) {

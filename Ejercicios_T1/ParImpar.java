@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class ParImpar {
+    /**
     import java.util.Scanner;
         //1. Declaración de variables
         int num;
@@ -22,7 +23,6 @@ public class ParImpar {
             System.out.println(" No es multiplo de 10");
         }
 
-        
-
+    */
     }
-}
+

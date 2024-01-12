@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class entregarArray5 {
+public class entregarArray_5 {
      /*5.Leer 10 números enteros y a continuación mostrar la media de los números introducidos, el mayor valor y el
         menor valor. Usar un array para almacenar los valores y sacar toda la información en una sola iteración del array.
         Si puedes mejóralo implementando una función para cada tarea (media, mayor, menor), pasando el array. */

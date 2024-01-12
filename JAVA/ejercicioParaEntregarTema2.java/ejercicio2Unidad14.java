@@ -9,10 +9,10 @@ public class ejercicio2Unidad14 {
         int numero2;
         int contador=0;
 
-        Scanner in = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println("Dime el primer numero positivo");
-        numero1 = sc.nextInt(); 
+        numero1 = Integer.parseInt(sc.nextLine());
 
         System.out.println("Dime el segundo numero positivo");
         numero2 = sc.nextInt(); 

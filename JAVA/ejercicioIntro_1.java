@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class ejercicioIntro1 {
+public class ejercicioIntro_1 {
     public static void main(String[] args) {
        // Ejercicio 1
        //Escribir un programa que pregunte al usuario su nombre, y luego lo salude

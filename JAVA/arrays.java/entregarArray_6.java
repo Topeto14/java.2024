@@ -1,4 +1,4 @@
-public class entregarArray6 {
+public class entregarArray_6 {
     /*6. Generar 10 números enteros aleatorios. Debemos mostrarlos en el siguiente orden: el primero, el último, el 
     segundo, el penúltimo, el tercero, etc… Pista: primero los guardas en un array y luego lo recorres como indica */
     

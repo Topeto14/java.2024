@@ -38,7 +38,7 @@ e. ((2<=5) || (3>=6)) && (2>–1)             El resultado es True
 
   /**5. Cumplimenta la siguiente tabla */
   // No funciona, porque hay que quitar las comillas y despues de quitar las comillas tampoco deja que a sea = a. Las letra a tiene que tener otro valor.  
-    int a=’a’;
+  /**  int a=’a’;
     System.out.println(a);
   // No funciona, porque seria un double no un int.
     int PI=3.14;

@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 
 
-public class entregarArray2 {
+public class entregarArray2_ {
     /*. Crea una función que reciba como parámetro un array de 10 enteros, debe devolver el mismo array donde se 
     hayan intercambiado el primer elemento y el último elemento. */
 

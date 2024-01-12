@@ -1,7 +1,6 @@
-import java.util.Arrays;
 import java.util.Scanner;
 
-public class entregarArray3 {
+public class entregarArray3_ {
 
     /*3. Crea un array de números de un tamaño pasado por teclado, el array contendrá números aleatorios entre 1 y 300 
     y mostrar aquellos números que acaben en un dígito que nosotros le indiquemos por teclado (debes controlar 

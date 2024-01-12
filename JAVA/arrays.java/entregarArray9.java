@@ -1,10 +1,11 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class entregarArray9 {
+//public class entregarArray9 {
     /*9. Realizar un programa que lea los tiempos en los que de 10 corredores han acabado una carrera. El programa debe 
     determinar qué corredores tienen el primer, segundo y último puesto, así como cuál es el tiempo medio en que 
     se ha corrido la carrera. Pista: ordénalo antes. */
+    /**
     public static boolean numeroRepetido(int numeros, int matriz[]){
         for (int i = 0; i < matriz.length; i++) {
             if (numeros==matriz[i]) { 
@@ -16,6 +17,7 @@ public class entregarArray9 {
 
     }
     public static void main(String[] args) {
+
         Scanner teclado = new Scanner(System.in);
 
         double tabla [] = new double [10];
@@ -34,7 +36,7 @@ public class entregarArray9 {
         System.out.println(" El segundo mejor tiempo es " + tabla[1]);
         System.out.println(" El ultimo tiempo es : " + tabla[9]);
         System.out.println(" El tiempo medio es : " + (suma /media));
-    }   
-}
-/*1-2-3-4-5-6 */
-/*14-49-1-35-56 */
+
+    }
+
+}*/

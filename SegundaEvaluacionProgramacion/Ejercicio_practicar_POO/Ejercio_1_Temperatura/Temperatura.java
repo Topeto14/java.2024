@@ -9,9 +9,11 @@ package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercio_1_Temperat
  public class Temperatura {
      //--METODOS--//
      public double celsiusToFarenheit (double celsius){
+
          return (((1.8) * celsius )+32);
      }
      public  double farenheitToCelsius (double farenheit){
+
          return (farenheit - 32) / 1.8 ;
      }
 

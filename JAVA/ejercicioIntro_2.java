@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class ejercicioIntro2 {
+public class ejercicioIntro_2 {
     public static void main(String[] args) {
         //Ejercicio 2
         //Calcular el perímetro y área de un rectángulo dada su base y su altura.

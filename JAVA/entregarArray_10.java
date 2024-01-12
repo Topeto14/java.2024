@@ -1,4 +1,4 @@
-public class entregarArray10 {
+public class entregarArray_10 {
     /*10. Realiza una función que devuelva un array con una combinación de la Lotería Primitiva (6 números entre 1 y 49). 
     La particularidad es que los números no deben estar repetidos. */
     public static int generarNumeros (int min, int max){
@@ -28,9 +28,9 @@ public class entregarArray10 {
 
         for (int i = 0; i < loteria.length; i++) {
             
-            while (numeroRepetido = true) {
+           /** while (numeroRepetido = true) {
                 
-            }
+            }*/
         }
     }
     
