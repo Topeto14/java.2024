@@ -14,6 +14,7 @@ public class TestTemperatura {
         System.out.println(farenheit + " grados farenheit son :" + new Temperatura().farenheitToCelsius(farenheit) + " Celsius ");
 
     sc.close();
+
     }
 
 }
