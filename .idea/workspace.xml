@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="gfh" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Topeto14&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="f0ebda9d-cd9d-49f2-aa46-5c628d1a3df7" />
+        <option name="url" value="https://github.com/Topeto14/java.2024.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="2am6Tb6XnOrsdWSBgregOpRJeJj" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/alumno1/Escritorio/java.2024&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="" />
+      <created>1704911415619</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1704911415619</updated>
+      <workItem from="1704911416923" duration="181000" />
+      <workItem from="1704911643918" duration="78000" />
+      <workItem from="1704911744341" duration="12000" />
+      <workItem from="1704986074425" duration="96000" />
+      <workItem from="1704992611665" duration="410000" />
+      <workItem from="1704993203172" duration="258000" />
+      <workItem from="1704993482921" duration="35000" />
+      <workItem from="1704993539648" duration="35000" />
+      <workItem from="1704993586118" duration="28000" />
+      <workItem from="1704993627742" duration="83000" />
+      <workItem from="1704993731339" duration="65000" />
+      <workItem from="1704993799487" duration="477000" />
+    </task>
+    <task id="LOCAL-00001" summary="g">
+      <option name="closed" value="true" />
+      <created>1704993497082</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1704993497082</updated>
+    </task>
+    <task id="LOCAL-00002" summary="g">
+      <option name="closed" value="true" />
+      <created>1704993556556</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1704993556556</updated>
+    </task>
+    <task id="LOCAL-00003" summary="g">
+      <option name="closed" value="true" />
+      <created>1704993970733</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1704993970733</updated>
+    </task>
+    <task id="LOCAL-00004" summary="gfdsgsdgf">
+      <option name="closed" value="true" />
+      <created>1704994236407</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1704994236407</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="g" />
+    <MESSAGE value="gfdsgsdgf" />
+    <option name="LAST_COMMIT_MESSAGE" value="gfdsgsdgf" />
+  </component>
+</project>
