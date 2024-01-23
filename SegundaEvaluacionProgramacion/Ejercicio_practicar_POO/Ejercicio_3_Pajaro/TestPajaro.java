@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class TestPajaro {
     public static void main(String[] args) {
         Pajaro p1 = new Pajaro();
-     Scanner sc = new Scanner(System.in);
+        Scanner sc = new Scanner(System.in);
 
         System.out.println(" Dime la edad del pajaro ");
         int edad = Integer.parseInt(sc.nextLine());

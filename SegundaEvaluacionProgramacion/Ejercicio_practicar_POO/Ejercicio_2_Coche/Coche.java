@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercio_2_Coche;
+package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_2_Coche;
 
 public class Coche {
     //--Atributo--

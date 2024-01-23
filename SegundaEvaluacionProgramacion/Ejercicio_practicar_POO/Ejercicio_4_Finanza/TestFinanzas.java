@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercio_4_Finanzas;
+package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_4_Finanza;
 
 import java.util.Scanner;
 
@@ -7,11 +7,11 @@ public class TestFinanzas {
         Finanzas f1 = new Finanzas();
         Scanner sc = new Scanner(System.in);
         System.out.println(" Dime cuantos Dolares quieres que te convierta en Euros ");
-        double dolar = Integer.parseInt(sc.nextLine());
-        System.out.println(f1.dolaresToEuros(dolar));
+        double dolar = Double.parseDouble(sc.nextLine());
+        System.out.println(dolar + " dolar es " + f1.dolaresToEuros(dolar) + " Euros");
         System.out.println(" Dime cuantos Euros quieres que te convierta en Dolares ");
-        double euros = Integer.parseInt(sc.nextLine());
-        System.out.println(f1.eurosToDolares(euros));
+        double euros = Double.parseDouble(sc.nextLine());
+        System.out.println(euros + " Euros son " + f1.eurosToDolares(euros) + " Dolares ");
 
         sc.close();
     }
