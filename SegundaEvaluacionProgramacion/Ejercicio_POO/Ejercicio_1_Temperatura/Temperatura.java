@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_1_Temperatura;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_1_Temperatura;
 /** 1. Realiza una clase Temperatura, la cual convierta grados Celsius a Farenheit y viceversa. Para ello, crea dos
  métodos double celsiusToFarenheit(double celsius) y double farenheitToCelsius(double
  farenheit). La clase Temperatura no tendrá ninguna propiedad, solo esos dos métodos.

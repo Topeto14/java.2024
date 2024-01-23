@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_3_Pajaro;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_3_Pajaro;
 
 public class Pajaro { // La clase es correcta porque tiene la primera letra en mayuscula y singular.
     //--Atributos--

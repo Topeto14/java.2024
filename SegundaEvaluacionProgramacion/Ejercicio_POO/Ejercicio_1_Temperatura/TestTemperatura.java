@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_1_Temperatura;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_1_Temperatura;
 
 import java.util.Scanner;
 

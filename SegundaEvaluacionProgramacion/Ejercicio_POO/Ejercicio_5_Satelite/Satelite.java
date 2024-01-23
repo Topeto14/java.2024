@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_5_Satelite;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_5_Satelite;
 
 public class Satelite {
     //--Atributos-Propiedades--

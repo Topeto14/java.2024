@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_4_Finanza;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_4_Finanza;
     /**Realiza una clase Finanzas que convierta dólares a euros y viceversa. Como propiedad se almacena únicamente el
     cambio dólar-euro, no se almacena una cantidad sino el tipo de cambio. Codifica los métodos
     dolaresToEuros(double dolares) y eurosToDolares(double euros). Prueba que dicha clase funciona

@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_4_Finanza;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_4_Finanza;
 
 import java.util.Scanner;
 

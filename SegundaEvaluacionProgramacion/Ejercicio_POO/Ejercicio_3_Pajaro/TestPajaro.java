@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_3_Pajaro;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_3_Pajaro;
 
 import java.util.Scanner;
 

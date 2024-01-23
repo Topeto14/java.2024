@@ -1,4 +1,4 @@
-package SegundaEvaluacionProgramacion.Ejercicio_practicar_POO.Ejercicio_6_SteamJuego;
+package SegundaEvaluacionProgramacion.Ejercicio_POO.Ejercicio_6_SteamJuego;
 import java.util.ArrayList;
 import java.util.Collections;
 
