@@ -8,11 +8,11 @@ import java.util.Objects;
 public class Tienda {
     //--Atributos--
     private String nombre ;
-    private ArrayList<Producto> productos = new ArrayList<>();
+    private ArrayList<Producto> productos ;
 
-    public Tienda(String nombre, ArrayList<Producto> productos) {
+    public Tienda(String nombre) {
         this.nombre = nombre;
-        this.productos = productos;
+        this.productos = new ArrayList<>();
     }
 
     public String getNombre() {
@@ -45,7 +45,7 @@ public class Tienda {
         return Objects.hash(nombre);
     }
 
-    public void addProducto(Producto producto){
-        this.productos.remove(producto);
+    public void addProducto(Producto p){
+        this.productos.add(p);
     }
 }

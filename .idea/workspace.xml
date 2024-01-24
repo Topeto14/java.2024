@@ -5,16 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="gfh">
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercicio_3_Pajaro/Pajaro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercicio_3_Pajaro/TestPajaro.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_4_Finanzas/Finanzas.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_4_Finanzas/TestFinanzas.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Probando/Producto/TestProducto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Probando/Tienda/TestTienda.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LenguajeMarcas.html/EjerciciosExamen.html/Segunda_Evaluacion/Relacion_4/Practica 1  alumno relacion 4/Index.html" beforeDir="false" afterPath="$PROJECT_DIR$/LenguajeMarcas.html/EjerciciosExamen.html/Segunda_Evaluacion/Relacion_4/Practica 1  alumno relacion 4/Index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.java" beforeDir="false" afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_1_Temperatura/TestTemperatura.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/java.2024/SegundaEvaluacionProgramacion/Ejercicio_practicar_POO/Ejercio_2_Coche/Coche.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Probando/Tienda/Tienda.java" beforeDir="false" afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Probando/Tienda/Tienda.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,25 +46,38 @@
   &quot;associatedIndex&quot;: 3
 }</component>
   <component name="ProjectId" id="2am6Tb6XnOrsdWSBgregOpRJeJj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.TestFinanzas.executor": "Run",
+    "Application.TestSatelite.executor": "Run",
+    "Application.TestTienda.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/home/alumno1/Escritorio/java.2024",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "settings.sync",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -92,6 +99,14 @@
       <workItem from="1704993731339" duration="65000" />
       <workItem from="1704993799487" duration="477000" />
       <workItem from="1705072227747" duration="6290000" />
+      <workItem from="1705101286740" duration="2837000" />
+      <workItem from="1705245155454" duration="601000" />
+      <workItem from="1705355101865" duration="10000" />
+      <workItem from="1705527861284" duration="4000" />
+      <workItem from="1705532501383" duration="1395000" />
+      <workItem from="1705599160871" duration="2807000" />
+      <workItem from="1705683576159" duration="1310000" />
+      <workItem from="1705947172077" duration="119000" />
     </task>
     <task id="LOCAL-00001" summary="g">
       <option name="closed" value="true" />
