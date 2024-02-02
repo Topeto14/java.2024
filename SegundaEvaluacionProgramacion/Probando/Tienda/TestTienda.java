@@ -9,6 +9,5 @@ public class TestTienda {
         t1.addProducto(p1);
         t1.addProducto(new Producto(" apple ", 2000));
         System.out.println(t1);
-
     }
 }
