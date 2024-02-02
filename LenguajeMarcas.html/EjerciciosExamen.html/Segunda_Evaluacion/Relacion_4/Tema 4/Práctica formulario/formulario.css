@@ -2,15 +2,22 @@
  body {
     font-family: Arial, sans-serif;
     background-color: #f5f2f0;
-    background-image: url(.imagenfondo);
-    background-size: cover;
-    background-position: center;
+    background-image: url(./back.jpg);
+    background-repeat: no-repeat;
 }
-.imagenfondo{
-    background-image: url(.imagenfondo);
-    width: 50px;
-    height: 100px;
-    
+header{
+    text-align: center;
+    color: #f5f2f0;
+    margin-top: auto;
+    background-color: orangered;
+    border-radius: 10px;
+    width: 50%;
+    margin-left: 25%;
+}
+fieldset legend{
+    text-decoration: line-through orangered ;
+    font-weight: bold;
+    font-size: x-large;
 }
 form {
     max-width: 600px;
