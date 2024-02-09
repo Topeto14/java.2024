@@ -4,20 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="asfdsg">
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Carcel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Carta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Casilla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Casilla_Especial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Casilla_carta.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Impuesto.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Juego.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Jugador.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Propiedad.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/Tablero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Monopoly/TestMonopoly.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="asfdsg" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -116,7 +103,7 @@
       <workItem from="1705683576159" duration="1310000" />
       <workItem from="1705947172077" duration="119000" />
       <workItem from="1706889059360" duration="4902000" />
-      <workItem from="1707494128320" duration="3472000" />
+      <workItem from="1707494128320" duration="4215000" />
     </task>
     <task id="LOCAL-00001" summary="g">
       <option name="closed" value="true" />
@@ -182,7 +169,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706893321740</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="asfdsg">
+      <option name="closed" value="true" />
+      <created>1707497700767</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1707497700767</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
