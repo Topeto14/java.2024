@@ -4,22 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="asfdsg">
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Asiento.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/AsientoBusiness.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/AsientoTurista.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Atrapame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Pasajero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Persona.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Principal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/ReservarVuelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/Examen_2_Evaluacion/Vuelo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/ahorcado/Ahorcado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SegundaEvaluacionProgramacion/ahorcado/TestAhorcado.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TerceraEvaluacionProgramacion/EquipoBasket/EquipoBasket.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TerceraEvaluacionProgramacion/EquipoBasket/JugadorBasket.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="7ca56b7e-a2e8-4b50-9aa8-448926a5ac1f" name="Changes" comment="sdfgdfshg">
+      <change afterPath="$PROJECT_DIR$/TerceraEvaluacionProgramacion/Peliculas/Director.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TerceraEvaluacionProgramacion/Peliculas/Genero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TerceraEvaluacionProgramacion/Peliculas/Pelicula.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TerceraEvaluacionProgramacion/Peliculas/main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -118,7 +107,8 @@
       <workItem from="1705683576159" duration="1310000" />
       <workItem from="1705947172077" duration="119000" />
       <workItem from="1711128988364" duration="7000" />
-      <workItem from="1711132271706" duration="3426000" />
+      <workItem from="1711132271706" duration="3606000" />
+      <workItem from="1712230810314" duration="1307000" />
     </task>
     <task id="LOCAL-00001" summary="g">
       <option name="closed" value="true" />
@@ -168,7 +158,15 @@
       <option name="project" value="LOCAL" />
       <updated>1706134618537</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="sdfgdfshg">
+      <option name="closed" value="true" />
+      <created>1711138930852</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1711138930852</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,6 +187,7 @@
     <MESSAGE value="g" />
     <MESSAGE value="gfdsgsdgf" />
     <MESSAGE value="asfdsg" />
-    <option name="LAST_COMMIT_MESSAGE" value="asfdsg" />
+    <MESSAGE value="sdfgdfshg" />
+    <option name="LAST_COMMIT_MESSAGE" value="sdfgdfshg" />
   </component>
 </project>
